@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>6A20608C562D07CB8714FE958AD1BAF331BAEDCF0DEBF2504AC4593612E854D4</Signature>
+  <Content>
+    <Project Guid="6f1e794d-232b-4dad-b159-35e809e2332d">
+      <DisplayName Value="ArticyUnannouncedProject"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="b24ae681-7556-4253-b31d-2dcd897c3d6d"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638640509298431640"/>
+      <PartitionHash Value="0F20D07423952AC50A16C0EB24EC37646AF37060A17C73FB574AE171EC36D2AE"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
