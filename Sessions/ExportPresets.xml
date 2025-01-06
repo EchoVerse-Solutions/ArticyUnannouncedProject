@@ -1,4 +1,4 @@
-<ExportPresets LastType="DocxExport">
+<ExportPresets LastType="XlsxExport">
   <Preset DisplayName="" Type="DocxExport">
     <ExportSettings Type="DocxExport">
       <Filename>C:\Users\user\Desktop\ArticyUnannouncedProject.docx</Filename>
@@ -15,6 +15,22 @@
       <ExportMarkup>1</ExportMarkup>
       <AutoOpenFile>1</AutoOpenFile>
       <ExportQueries>1</ExportQueries>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="XlsxExport">
+    <ExportSettings Type="XlsxExport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.xlsx</Filename>
+      <TablePerGroup>1</TablePerGroup>
+      <GroupedBy>ObjectType</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <WhichName>DisplayName</WhichName>
+      <FeatureOrder>Alphabetical</FeatureOrder>
+      <CollectStatistics>1</CollectStatistics>
+      <ExportMarkup>0</ExportMarkup>
+      <VariableOrder>Namespace</VariableOrder>
+      <ExportQueries>False</ExportQueries>
+      <PageSize>A4</PageSize>
+      <AutoOpenFile>1</AutoOpenFile>
     </ExportSettings>
   </Preset>
 </ExportPresets>
