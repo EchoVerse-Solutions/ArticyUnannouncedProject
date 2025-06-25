@@ -1,4 +1,4 @@
-<ExportPresets LastType="XlsxExport">
+<ExportPresets LastType="Unreal4Export">
   <Preset DisplayName="" Type="DocxExport">
     <ExportSettings Type="DocxExport">
       <Filename>C:\Users\user\Desktop\ArticyUnannouncedProject.docx</Filename>
@@ -17,6 +17,44 @@
       <ExportQueries>1</ExportQueries>
     </ExportSettings>
   </Preset>
+  <Preset DisplayName="Test" Type="JsonExport">
+    <ExportSettings Type="JsonExport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.json</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value=""/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037928194" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037928191</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="XlsxForReimport">
+    <ExportSettings Type="XlsxForReimport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.xlsx</Filename>
+      <SortObjectsBy>DisplayName</SortObjectsBy>
+      <SelectedProperties/>
+      <AutoOpenFile>1</AutoOpenFile>
+      <ExportQueries>1</ExportQueries>
+      <MarkupTextFormat>Plain</MarkupTextFormat>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="JsonExport">
+    <ExportSettings Type="JsonExport">
+      <Filename>C:\Users\user\Downloads\ArticyUnannouncedProject.json</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value=""/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037939578" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037939571</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
   <Preset DisplayName="" Type="XlsxExport">
     <ExportSettings Type="XlsxExport">
       <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.xlsx</Filename>
@@ -31,6 +69,20 @@
       <ExportQueries>False</ExportQueries>
       <PageSize>A4</PageSize>
       <AutoOpenFile>1</AutoOpenFile>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="Unreal4Export">
+    <ExportSettings Type="Unreal4Export">
+      <Filename>C:\Projects\UnannouncedProject\Content\ArticyDataParser\ArticyData\ArticyData.articyue4</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037939578" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037939571</SelectedRuleSet>
     </ExportSettings>
   </Preset>
 </ExportPresets>
